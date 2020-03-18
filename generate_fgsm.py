@@ -1,12 +1,3 @@
-"""
-This tutorial shows how to generate adversarial examples using FGSM
-and train a model using adversarial training with TensorFlow.
-It is very similar to mnist_tutorial_keras_tf.py, which does the same
-thing but with a dependence on keras.
-The original paper can be found at:
-https://arxiv.org/abs/1412.6572
-"""
-# pylint: disable=missing-docstring
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
